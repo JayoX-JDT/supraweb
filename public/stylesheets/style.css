@@ -1,0 +1,101 @@
+@font-face {
+  font-family: Sono;
+  src: url(Sono.ttf);
+}
+
+@font-face {
+  font-family: mcraft;
+  src: url(Minecraftia-Regular.ttf);
+}
+
+@font-face {
+  font-family: minecrafttitle;
+  src: url(Minercraftory.ttf);
+}
+
+
+body {
+  padding: 50px;
+  background-color: #313338;
+  color: white;
+  font-family: Sono;
+}
+
+a {
+  color: #17FF00;
+}
+
+footer {
+  background-color: #2b2d31;
+}
+
+.supracraftnw {
+  font-family: minecrafttitle;
+  color: purple;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+hne {
+  font-family: minecrafttitle;
+  color: purple;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+
+
+.container-fluid {
+  background-color: #2b2d31;
+  border-color: aqua;
+  border-style: dashed;
+}
+
+.mcfont {
+  font-family: mcraft;
+  text-align: center;
+}
+mcf {
+
+  font-family: mcraft;
+
+
+}
+
+.forum-img {
+  width: 1000px;
+  height: 500px;
+}
+
+.cargando-img{
+  width: 598px;
+  height: 200px;
+}
+
+
+bold {
+  font-weight: 900;
+}
+
+green {
+  color: #17FF00;
+}
+
+red {
+  color: red;
+
+}
+
+purple {
+  color: purple
+}
+
+yellow {
+  color: yellow
+}
+
+.somos-pt1 {
+  background-color: azure;
+}
